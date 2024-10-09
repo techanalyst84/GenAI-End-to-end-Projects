@@ -12,7 +12,7 @@ This demo project employs Generative AI to extract insights from YouTube videos 
 ### 🔑 Key Features:
 
 #### 1. YouTube API Integration:
-- The project starts with the **YouTube API** to fetch video URLs from a specific channel. By querying the channel with its handle (e.g., `@rajasdataengineering7585`), we retrieve the most recent videos, ensuring we have the latest content to analyze.
+- The project starts with the **YouTube API** to fetch video URLs from a specific channel. By querying the channel with its handle (e.g., `@rajasdataengineering7585`,`@krishnaik06`), we retrieve the most recent videos, ensuring we have the latest content to analyze.
 - Each video transcript is fetched using the `YoutubeLoader`, which extracts meaningful information efficiently.
 
 #### 2. PDF Generation:
